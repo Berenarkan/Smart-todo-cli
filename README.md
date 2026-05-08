@@ -11,6 +11,7 @@ A simple command-line TODO application built with C++.
 
 ## Build
 
+```bash
 g++ main.cpp -o todo
 ./todo
 
